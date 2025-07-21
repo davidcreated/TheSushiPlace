@@ -14,11 +14,8 @@ A sleek and modern mobile UI for a Sushi restaurant built using **Flutter**. The
 
 ## 📱 Screenshots
 
-| Home Page | Glassmorphic Promo | Food Menu |
-|-----------|--------------------|-----------|
-| || 
- ![Home] <img width="422" height="863" alt="Screenshot 2025-07-20 190448" src="https://github.com/user-attachments/assets/85efde51-b8bd-4cae-95c9-4de2d84b072f" />
- ![Menu]<img width="422" height="863" alt="Screenshot 2025-07-20 190458" src="https://github.com/user-attachments/assets/b79a42cd-96e1-4ad6-97a0-321e09cdc480" />
+  <img width="422" height="863" alt="Screenshot 2025-07-20 190448" src="https://github.com/user-attachments/assets/85efde51-b8bd-4cae-95c9-4de2d84b072f" />
+ <img width="422" height="863" alt="Screenshot 2025-07-20 190458" src="https://github.com/user-attachments/assets/b79a42cd-96e1-4ad6-97a0-321e09cdc480" />
 <img width="422" height="863" alt="Screenshot 2025-07-20 190505" src="https://github.com/user-attachments/assets/430221c0-f4e3-4875-8a50-411e513ba78d" />
 
 ---
