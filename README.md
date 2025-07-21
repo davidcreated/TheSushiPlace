@@ -1,10 +1,4 @@
-Here's your **Flutter Sushi Place app** zipped and ready for download:
 
-👉 [Click here to download TheSushiPlace\_FlutterApp.zip](sandbox:/mnt/data/TheSushiPlace_FlutterApp.zip)
-
----
-
-### ✅ README.md (for your GitHub)
 
 # 🍣 The Sushi Place - Flutter UI App
 
